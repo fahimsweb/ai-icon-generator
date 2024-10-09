@@ -25,7 +25,7 @@ The AI Icon Generator is a web application that utilizes the OpenAI API to gener
 ## Installation
 
 1. Clone the repository:
-   `git clone [https://github.com/your-username/dalle-image-generator.git](https://github.com/fahimsweb/ai-icon-generator)`
+   `git clone https://github.com/fahimsweb/ai-icon-generator`
 
 2. Navigate to the project directory:
    `cd ai-icon-generator`
